@@ -1,21 +1,8 @@
-2024/10/08-12:37:53.739 4d74 Recovering log #70
-2024/10/08-12:37:53.744 4d74 Delete type=0 #70
-2024/10/08-12:37:53.744 4d74 Delete type=3 #69
-2024/10/08-12:58:53.949 2e2c Level-0 table #74: started
-2024/10/08-12:58:53.949 2e2c Level-0 table #74: 0 bytes OK
-2024/10/08-12:58:53.950 2e2c Delete type=0 #72
-2024/10/08-12:58:53.953 2e2c Manual compaction at level-0 from '!actors!03ciWt4Q1GA9c9hx' @ 72057594037927935 : 1 .. '!folders!zPtXyz8LKSz1ngCQ' @ 0 : 0; will stop at '!actors!IwUiKCjVQb8Fs2Gx' @ 3906 : 1
-2024/10/08-12:58:53.953 2e2c Compacting 1@0 + 0@1 files
-2024/10/08-12:58:53.956 2e2c Generated table #75@0: 2 keys, 6006 bytes
-2024/10/08-12:58:53.956 2e2c Compacted 1@0 + 0@1 files => 6006 bytes
-2024/10/08-12:58:53.957 2e2c compacted to: files[ 0 1 4 0 0 0 0 ]
-2024/10/08-12:58:53.957 2e2c Delete type=2 #65
-2024/10/08-12:58:53.957 2e2c Manual compaction at level-0 from '!actors!IwUiKCjVQb8Fs2Gx' @ 3906 : 1 .. '!folders!zPtXyz8LKSz1ngCQ' @ 0 : 0; will stop at (end)
-2024/10/08-12:58:53.957 2e2c Manual compaction at level-1 from '!actors!03ciWt4Q1GA9c9hx' @ 72057594037927935 : 1 .. '!folders!zPtXyz8LKSz1ngCQ' @ 0 : 0; will stop at '!actors!IwUiKCjVQb8Fs2Gx' @ 3906 : 1
-2024/10/08-12:58:53.957 2e2c Compacting 1@1 + 1@2 files
-2024/10/08-12:58:53.995 2e2c Generated table #76@1: 1141 keys, 2122733 bytes
-2024/10/08-12:58:53.995 2e2c Compacted 1@1 + 1@2 files => 2122733 bytes
-2024/10/08-12:58:53.996 2e2c compacted to: files[ 0 0 4 0 0 0 0 ]
-2024/10/08-12:58:53.997 2e2c Delete type=2 #27
-2024/10/08-12:58:53.997 2e2c Delete type=2 #75
-2024/10/08-12:58:54.003 2e2c Manual compaction at level-1 from '!actors!IwUiKCjVQb8Fs2Gx' @ 3906 : 1 .. '!folders!zPtXyz8LKSz1ngCQ' @ 0 : 0; will stop at (end)
+2024/10/08-13:53:53.982 537c Recovering log #81
+2024/10/08-13:53:53.988 537c Delete type=0 #81
+2024/10/08-13:53:53.988 537c Delete type=3 #79
+2024/10/08-14:02:00.626 3d60 Level-0 table #88: started
+2024/10/08-14:02:00.627 3d60 Level-0 table #88: 0 bytes OK
+2024/10/08-14:02:00.628 3d60 Delete type=0 #86
+2024/10/08-14:02:00.633 3d60 Manual compaction at level-0 from '!actors!00lB3Rc1fl4mv9jV' @ 72057594037927935 : 1 .. '!folders!zPtXyz8LKSz1ngCQ' @ 0 : 0; will stop at (end)
+2024/10/08-14:02:00.656 3d60 Manual compaction at level-1 from '!actors!00lB3Rc1fl4mv9jV' @ 72057594037927935 : 1 .. '!folders!zPtXyz8LKSz1ngCQ' @ 0 : 0; will stop at (end)
